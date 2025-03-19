@@ -1,1 +1,14 @@
-/.idea/
+# Maven target directory
+target/
+
+# Maven wrapper files (if you're using them, you might want to commit the wrapper script and jar)
+!.mvn/wrapper/maven-wrapper.jar
+
+# IDE settings (example for IntelliJ IDEA)
+.idea/
+*.iml
+out/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
